@@ -1,0 +1,7 @@
+{
+  "SLEEP_DURATION": 5000,
+  "HOST": "localhost",
+  "PORT": 63638,
+  "USERNAME": "afk_bot",
+  "PASSWORD": ""
+}

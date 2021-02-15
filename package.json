@@ -1,0 +1,15 @@
+{
+  "name": "mineflayer-afk-bot",
+  "version": "1.0.0",
+  "description": "https://github.com/random-logic/mineflayer-afk-bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "random_logic_",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^2.41.0",
+    "mineflayer-auto-eat": "^1.3.4"
+  }
+}
